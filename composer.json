@@ -1,5 +1,5 @@
-{
-    "name": "phpdocumentor/reflection-docblock",
+-{
+    "name": "next-press/reflection-docblock",
     "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
     "type": "library",
     "license": "MIT",
